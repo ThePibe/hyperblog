@@ -8,5 +8,6 @@ Este es un blog para aprender ls principios básicos del trabajo colabortivo en 
 -  El flujo de trabajo de GitHub
 - La importancia de las buenas prácticas
 - Algunos trucos
+- Creado por Andrés C.
 
 > Si quieres que tú Vida cambie haz algo para que así sea. Ve en un busca de aquellas historias que te harán historia, de aquellos momentos que te harán sonreir por la eternidad...
