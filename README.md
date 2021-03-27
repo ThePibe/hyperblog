@@ -9,5 +9,6 @@ Este es un blog para aprender ls principios básicos del trabajo colabortivo en 
 - La importancia de las buenas prácticas
 - Algunos trucos
 - Creado por Andrés C.
+- Incluye ejemplos en otros sistemas operativos
 
 > Si quieres que tú Vida cambie haz algo para que así sea. Ve en un busca de aquellas historias que te harán historia, de aquellos momentos que te harán sonreir por la eternidad...
